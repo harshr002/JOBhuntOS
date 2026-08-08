@@ -1,0 +1,23 @@
+# Secrets
+.env
+.env.*
+
+# Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# User data
+resumes/
+data/jobs.csv
+
+# macOS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
