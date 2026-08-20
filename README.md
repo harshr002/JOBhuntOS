@@ -676,7 +676,7 @@ JobHuntOS/
 ## 1. Clone the Repository
 
 ```bash
-git clone YOUR_REPOSITORY_URL
+git clone https://github.com/harshr002/JOBhuntOS
 cd JobHuntOS
 ```
 
