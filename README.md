@@ -8,6 +8,11 @@ JobHuntOS is an AI-powered job discovery and application assistant designed to a
 
 Instead of manually opening dozens of websites, repeating the same searches, comparing job descriptions, checking your resume against requirements, writing outreach messages, and maintaining spreadsheets, JobHuntOS brings the entire workflow into one intelligent system.
 
+### 🚀 Live Demo
+
+👉 **[Try the JOBHUNTOS](https://jobhuntos-1.onrender.com/)**
+
+
 ---
 
 ## 🧠 The Vision
